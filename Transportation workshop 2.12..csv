@@ -1,0 +1,18 @@
+﻿,,,,,,,,,,,,
+,Taffy Tundra,Sugar Swirl Spires,Marshmallow Meadows,Toblerone Tower,Swedish Fish Shores,Strawberry Swirl Stream,,,,Capacity,,
+Honeysuckle Hollow,$0.09,$0.09,$0.06,$0.16,$0.08,$0.16,,,,Sf290089,Candy Button Bay,190
+Gummy Grotto,$0.09,$0.16,$0.06,$0.16,$0.08,$0.09,,,,Sbd5f29b,Gingerbread Glades,181
+Gingerbread Glades,$0.09,$0.16,$0.06,$0.16,$0.08,$0.09,,,,S7fe62f8,Honeysuckle Hollow,116
+Candy Button Bay,$0.09,$0.16,$0.06,$0.16,$0.08,$0.09,,,,S4592718,Gummy Grotto,176
+Demand ,114,126,117,116,113,125,,,,,,
+,,,,,,,,,,Demand ,,
+,Taffy Tundra,Sugar Swirl Spires,Marshmallow Meadows,Toblerone Tower,Swedish Fish Shores,Strawberry Swirl Stream,Sent,Capacity,,Df0929d3,Taffy Tundra,114
+Honeysuckle Hollow,0,0,67,49,0,0,116,116,,Dbc85654,Sugar Swirl Spires,126
+Gummy Grotto,0,126,50,0,0,0,176,176,,Db55b4cc,Marshmallow Meadows,117
+Gingerbread Glades,114,0,0,0,0,67,181,181,,D9661ca9,Toblerone Tower,116
+Candy Button Bay,0,0,0,19,113,58,190,190,,D2900710,Swedish Fish Shores,113
+Sent ,114,126,117,68,113,125,,663,,D1df3a32,Strawberry Swirl Stream,125
+Demand ,114,126,117,116,113,125,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Objective Function,$68.61,,,,,,,,,,,
