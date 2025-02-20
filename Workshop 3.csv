@@ -1,0 +1,19 @@
+﻿,,,,
+,1,2,3,4
+Beginning Inventory,200,83,280,268
+Units Produced        ,377,377,439,527
+Units Demanded     ,494,180,451,723
+Ending Inventory    ,83,280,268,72
+,,,,
+Maximum Production,459,377,439,527
+Minimum Inventory,49,18,45,72
+,,,,
+Average Inventory,142,182,274,170
+,,,,
+Unit Production Cost,$50,$47,$52,$50
+Unit Carrying Cost    ,$1.07,$1.07,$1.07,$1.07
+,,,,
+Monthly Production Cost,"$19,012","$17,666","$22,767","$26,271"
+Monthly Carrying Cost,$152,$195,$294,$182
+,,,,
+,,,Total Cost,"$86,537.42"
