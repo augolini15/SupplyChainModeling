@@ -1,0 +1,20 @@
+﻿,,,,,,,,,,,,
+Total Transportation Cost ->,,,," $43,433.00 ",,,,,,,,
+,,,,,,,,,,,,
+Ship,From,,To,,Unit Cost,,Nodes,,Inflow,Outflow,Net Flow,Supply/Demand
+300,0,Caramel Cascades,4,Lava Cake Ledges, $35 ,,0,Caramel Cascades,0,300,-300,-300
+162,1,Coconut Cluster Caves,3,Frozen Fudge Fjords, $26 ,,1,Coconut Cluster Caves,0,350,-350,-350
+188,1,Coconut Cluster Caves,5,Licorice Lanes, $32 ,,2,Coconut Cream Cove,0,250,-250,-250
+250,2,Coconut Cream Cove,3,Frozen Fudge Fjords, $25 ,,3,Frozen Fudge Fjords,412,206,206,206
+0,2,Coconut Cream Cove,5,Licorice Lanes, $34 ,,4,Lava Cake Ledges,300,174,126,126
+0,3,Frozen Fudge Fjords,4,Lava Cake Ledges, $47 ,,5,Licorice Lanes,188,77,111,111
+0,3,Frozen Fudge Fjords,5,Licorice Lanes, $40 ,,6,Praline Park,206,0,206,206
+206,3,Frozen Fudge Fjords,6,Praline Park, $36 ,,7,Sprinkle Street,90,0,90,190
+0,3,Frozen Fudge Fjords,7,Sprinkle Street, $49 ,,8,Starburst Starlit Skies,161,0,161,161
+0,3,Frozen Fudge Fjords,8,Starburst Starlit Skies, $31 ,,,,,,,
+0,4,Lava Cake Ledges,6,Praline Park, $49 ,,,,,,,
+13,4,Lava Cake Ledges,7,Sprinkle Street, $47 ,,,,,,,
+161,4,Lava Cake Ledges,8,Starburst Starlit Skies, $38 ,,,,,,,
+0,5,Licorice Lanes,3,Frozen Fudge Fjords, $48 ,,,,,,,
+77,5,Licorice Lanes,7,Sprinkle Street, $30 ,,,,,,,
+0,8,Starburst Starlit Skies,7,Sprinkle Street, $39 ,,,,,,,
