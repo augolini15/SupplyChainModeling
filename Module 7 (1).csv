@@ -1,0 +1,23 @@
+﻿,,,,,,,,,,,,
+,Maximal Flow ->,,,451,,,,,,,,
+,,,,,,,,,,,,
+Units of Flow,Links,,,,Upper Bound,,,,,,,Supply / Demand
+,From,,To,,,,Nodes,,Inflow,Outflow,Net Flow,
+149,0,Caramel Cascades,1,Coconut Cluster Caves,149,,0,Caramel Cascades,451,451,0,0
+168,0,Caramel Cascades,2,Coconut Cream Cove,168,,1,Coconut Cluster Caves,317,317,0,0
+134,0,Caramel Cascades,3,Fruit Chew Fjords,237,,2,Coconut Cream Cove,168,168,0,0
+100,1,Coconut Cluster Caves,4,Lava Cake Ledges,100,,3,Fruit Chew Fjords,134,134,0,0
+148,1,Coconut Cluster Caves,5,Pudding Peaks,148,,4,Lava Cake Ledges,100,100,0,0
+69,1,Coconut Cluster Caves,6,Starburst Starlit Skies,258,,5,Pudding Peaks,148,148,0,0
+168,2,Coconut Cream Cove,1,Coconut Cluster Caves,221,,6,Starburst Starlit Skies,351,351,0,0
+0,2,Coconut Cream Cove,3,Fruit Chew Fjords,96,,7,Strawberry Swirl Stream,451,451,0,0
+0,2,Coconut Cream Cove,4,Lava Cake Ledges,73,,,,,,,
+0,2,Coconut Cream Cove,5,Pudding Peaks,119,,,,,,,
+134,3,Fruit Chew Fjords,6,Starburst Starlit Skies,134,,,,,,,
+100,4,Lava Cake Ledges,7,Strawberry Swirl Stream,159,,,,,,,
+0,4,Lava Cake Ledges,5,Pudding Peaks,236,,,,,,,
+0,5,Pudding Peaks,7,Strawberry Swirl Stream,159,,,,,,,
+0,5,Pudding Peaks,3,Fruit Chew Fjords,53,,,,,,,
+148,5,Pudding Peaks,6,Starburst Starlit Skies,189,,,,,,,
+351,6,Starburst Starlit Skies,7,Strawberry Swirl Stream,372,,,,,,,
+451,7,Strawberry Swirl Stream,0,Caramel Cascades,9999,,,,,,,
