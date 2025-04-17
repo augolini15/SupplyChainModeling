@@ -1,0 +1,27 @@
+﻿,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ship,From,,To,,Unit Cost,From Long,From Lati,To Long,To Lati,Distance,Unit distance,Transportation_method,Binary transport,Congestion Level,Binary Congest,,Nodes,,Inflow,Outflow,Net Flow,Supply/Demand,,location_id,latitude,longitude
+3012.096625,1,Caramel Cascades,2,Coconut Cluster Caves, $22.00 ,-102.5,37.5,-103.63,38.35,1.41,4259,Electric/Hybrid Trucks,0,77,1,,1,Caramel Cascades,0,9486,-9486,-9486,,1,37.5,-102.5
+2571.685263,1,Caramel Cascades,5,Lava Lollipop Land, $23.00 ,-102.5,37.5,-101.22,35.13,2.69,6927,Diesel Trucks,1,33,0,,2,Coconut Cluster Caves,3012.096625,1512.096625,1500,1500,,2,38.35,-103.63
+1266,1,Caramel Cascades,6,Strawberry Swirl Stream, $15.00 ,-102.5,37.5,-97.22,43.98,8.36,10582,Diesel Trucks,1,95,1,,3,Coconut Macaroon Moor,1602,0,1602,1602,,3,41.43,-105.63
+2636.218112,1,Caramel Cascades,7,Sugar Swirl Spires, $18.00 ,-102.5,37.5,-119.79,32.02,18.14,47815,Diesel Trucks,1,32,0,,4,Fruit Chew Fjords,1401,0,1401,1401,,4,36.39,-104.99
+0,2,Coconut Cluster Caves,1,Caramel Cascades, $6.00 ,-103.63,38.35,-102.5,37.5,1.41,0,Electrified Rail,0,91,1,,5,Lava Lollipop Land,2571.685263,825.6852629,1746,1746,,5,35.13,-101.22
+776.3147371,2,Coconut Cluster Caves,3,Coconut Macaroon Moor, $16.00 ,-103.63,38.35,-105.63,41.43,3.67,2851,Electric/Hybrid Trucks,0,27,0,,6,Strawberry Swirl Stream,1266,0,1266,1266,,6,43.98,-97.22
+735.7818879,2,Coconut Cluster Caves,4,Fruit Chew Fjords, $9.00 ,-103.63,38.35,-104.99,36.39,2.39,1755,Diesel Trucks,1,76,1,,7,Sugar Swirl Spires,2636.218112,665.2181121,1971,1971,,7,32.02,-119.79
+0,2,Coconut Cluster Caves,6,Strawberry Swirl Stream, $17.00 ,-103.63,38.35,-97.22,43.98,8.53,0,Cargo Ships (Heavy Fuel Oil),1,91,0,,,,,,,,,,,
+0,3,Coconut Macaroon Moor,1,Caramel Cascades, $16.00 ,-105.63,41.43,-102.5,37.5,5.02,0,Diesel Trucks,1,97,0,,,,Totals,Target,Deviation,Deviation %,Weight,Weight Deviation,,
+0,3,Coconut Macaroon Moor,5,Lava Lollipop Land, $23.00 ,-105.63,41.43,-101.22,35.13,7.69,0,Cargo Ships (Heavy Fuel Oil),1,91,0,,Total Transportation Cost ,," $240,236.55 "," $222,321.00 "," $17,915.55 ",8.06%,1,8.06%,,
+0,3,Coconut Macaroon Moor,6,Strawberry Swirl Stream, $14.00 ,-105.63,41.43,-97.22,43.98,8.79,0,Slow Steaming Cargo Ships,0,72,1,,Distance Travelled,,90804.39878,66627.13363,24177.26515,36.29%,1,36.29%,,
+0,3,Coconut Macaroon Moor,7,Sugar Swirl Spires, $14.00 ,-105.63,41.43,-119.79,32.02,17.00,0,Electric/Hybrid Trucks,0,102,1,,Ecofriendliness,,8700.588638,6384,2316.588638,36.29%,1,36.29%,,
+0,4,Fruit Chew Fjords,3,Coconut Macaroon Moor, $23.00 ,-104.99,36.39,-105.63,41.43,5.08,0,Cargo Ships (Heavy Fuel Oil),1,99,1,,Congestion levels,,5679.096625,4167,1512.096625,36.29%,1,36.29%,,
+0,4,Fruit Chew Fjords,7,Sugar Swirl Spires, $19.00 ,-104.99,36.39,-119.79,32.02,15.43,0,Diesel Trucks,1,80,1,,,,,,,,,,,
+0,5,Lava Lollipop Land,1,Caramel Cascades, $17.00 ,-101.22,35.13,-102.5,37.5,2.69,0,Diesel Rail,1,95,1,,Minimax Variable,,0.36,,,,,,,
+0,5,Lava Lollipop Land,2,Coconut Cluster Caves, $13.00 ,-101.22,35.13,-103.63,38.35,4.02,0,Diesel Trucks,1,85,1,,,,,,,,,,,
+825.6852629,5,Lava Lollipop Land,3,Coconut Macaroon Moor, $17.00 ,-101.22,35.13,-105.63,41.43,7.69,6350,Diesel Rail,1,19,0,,,,,,,,,,,
+0,6,Strawberry Swirl Stream,2,Coconut Cluster Caves, $20.00 ,-97.22,43.98,-103.63,38.35,8.53,0,Slow Steaming Cargo Ships,0,78,1,,,,,,,,,,,
+0,6,Strawberry Swirl Stream,3,Coconut Macaroon Moor, $17.00 ,-97.22,43.98,-105.63,41.43,8.79,0,Cargo Ships (Heavy Fuel Oil),1,78,1,,,,,,,,,,,
+0,6,Strawberry Swirl Stream,4,Fruit Chew Fjords, $16.00 ,-97.22,43.98,-104.99,36.39,10.86,0,Diesel Trucks,1,92,1,,,,,,,,,,,
+0,6,Strawberry Swirl Stream,7,Sugar Swirl Spires, $17.00 ,-97.22,43.98,-119.79,32.02,25.54,0,Electrified Rail,0,86,1,,,,,,,,,,,
+665.2181121,7,Sugar Swirl Spires,4,Fruit Chew Fjords, $23.00 ,-119.79,32.02,-104.99,36.39,15.43,10265,Diesel Rail,1,88,1,,,,,,,,,,,
+0,7,Sugar Swirl Spires,5,Lava Lollipop Land, $16.00 ,-119.79,32.02,-101.22,35.13,18.83,0,Diesel Trucks,1,80,1,,,,,,,,,,,
+0,7,Sugar Swirl Spires,6,Strawberry Swirl Stream, $7.00 ,-119.79,32.02,-97.22,43.98,25.54,0,Air Freight,1,103,1,,,,,,,,,,,
